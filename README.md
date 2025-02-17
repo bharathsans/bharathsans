@@ -8,8 +8,6 @@
 
 - 📄 Know about my experiences ~Resume [https://drive.google.com/file/d/1XaVkvoDx6KvHl3XxsVGrTpNxCaG3XHHE/view?usp=sharing](https://drive.google.com/file/d/1XaVkvoDx6KvHl3XxsVGrTpNxCaG3XHHE/view?usp=sharing)
 
-- 📫 I'm a fide rated chess player. Challenge me : [![Lichess](https://img.shields.io/badge/Lichess-Profile-green?style=for-the-badge&logo=lichess)](https://lichess.org/@/sanbharath)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bharath-s-966209192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bharath-s-966209192/" height="30" width="40" /></a>
@@ -21,4 +19,13 @@
 <br>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bharath_san?theme=dark)
+
+<h3 align="left">
+Challenge me to a game of chess!
+</h3>
+<br>
+  
+[![Lichess](https://img.shields.io/badge/Lichess-Profile-green?style=for-the-badge&logo=lichess)](https://lichess.org/@/sanbharath)
+
+
 
